@@ -1,1 +1,12 @@
+function findCaliforniaCafes('search string') {
+    const cafes = [{...}];
+    const places = [{...}];
+    result="SELECT * FROM cafes WHERE name LIKE '%input()%'";
+    if(cafes.place_id==places.id):
+        results="SELECT * FROM places";
+    return results;
+}
+
+
+
 
